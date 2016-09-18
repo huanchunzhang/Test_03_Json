@@ -60,6 +60,7 @@ public class TestJson {
 	public void test03() {
 		
 		System.out.println("测试提交git远程服务器");
+		System.out.println("测试下载到本地");
 		
 	}
 	
