@@ -56,4 +56,11 @@ public class TestJson {
 		
 	}
 	
+	//测试
+	public void test03() {
+		
+		System.out.println("测试提交git远程服务器");
+		
+	}
+	
 }
