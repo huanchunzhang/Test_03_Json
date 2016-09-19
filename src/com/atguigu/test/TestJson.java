@@ -63,6 +63,7 @@ public class TestJson {
 		System.out.println("测试下载到本地");
 		System.out.println("测试冲突");
 		System.out.println("服务器更新");
+		System.out.println();
 	}
 	
 }
